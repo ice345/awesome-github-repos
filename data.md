@@ -44,8 +44,6 @@
 
 *   [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
 
-*   [LunaTechLab/MoonTV](https://github.com/LunaTechLab/MoonTV) - 一个开箱即用的、跨平台的影视聚合播放站
-
 *   [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
 
 *   [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
@@ -225,6 +223,8 @@
 *   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 
 *   [acgotaku/switch](https://github.com/acgotaku/switch) - Switch 安装 Atmosphère 手册
+
+*   [ayamir/fcitx5-nord](https://github.com/ayamir/fcitx5-nord) - Fcitx5 theme based on Nord color.
 
 ## C++
 
