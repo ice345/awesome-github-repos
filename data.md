@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [HTML](#html)
 *   [miscellaneous](#miscellaneous)
 *   [C](#c)
 *   [JavaScript](#javascript)
@@ -16,13 +17,22 @@
 *   [Shell](#shell)
 *   [C++](#c-1)
 *   [Svelte](#svelte)
-*   [HTML](#html)
 *   [Kotlin](#kotlin)
 *   [Vue](#vue)
 *   [Bikeshed](#bikeshed)
 *   [Vim Script](#vim-script)
 
+## HTML
+
+*   [vbskycn/iptv](https://github.com/vbskycn/iptv) - iptv最新可用直播源,支持iptv4/iptv6双栈访问。直播电视系统，这里有折腾好的，直接下载用吧。直播电视app电视手机全部兼容。
+
+*   [phil-opp/blog\_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
+
+*   [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
+
 ## miscellaneous
+
+*   [luongz/iptv-jp](https://github.com/luongz/iptv-jp) - A collection of Japanese TV channel links.
 
 *   [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 
@@ -192,8 +202,6 @@
 
 *   [SagerNet/sing-geosite](https://github.com/SagerNet/sing-geosite) -  Geosite database and rule sets for sing-box.
 
-*   [SagerNet/sing-geoip](https://github.com/SagerNet/sing-geoip) - GeoIP database and rule sets for sing-box.
-
 ## Java
 
 *   [zfile-dev/zfile](https://github.com/zfile-dev/zfile) - 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载
@@ -211,8 +219,6 @@
 *   [Predidit/Kazumi](https://github.com/Predidit/Kazumi) - 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。
 
 *   [guozhigq/pilipala](https://github.com/guozhigq/pilipala) - PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。
-
-*   [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
 
 ## Lua
 
@@ -235,12 +241,6 @@
 ## Svelte
 
 *   [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
-
-## HTML
-
-*   [phil-opp/blog\_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
-
-*   [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
 
 ## Kotlin
 
