@@ -19,6 +19,7 @@
 *   [C++](#c-1)
 *   [Svelte](#svelte)
 *   [Kotlin](#kotlin)
+*   [Handlebars](#handlebars)
 *   [Bikeshed](#bikeshed)
 *   [Vim Script](#vim-script)
 
@@ -83,8 +84,6 @@
 *   [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV) - 一分钟搭建影视站，支持Vercel/Docker等部署方式
 
 *   [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
-
-*   [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
 
 *   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 
@@ -251,6 +250,10 @@
 ## Kotlin
 
 *   [dmzz-yyhyy/LightNovelReader](https://github.com/dmzz-yyhyy/LightNovelReader) - 一款基于Compose的多数据源轻小说阅读器。支持epub导出，自定义背景样式，本地书架和更新提醒等功能。
+
+## Handlebars
+
+*   [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
 
 ## Bikeshed
 
