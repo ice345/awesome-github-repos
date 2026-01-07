@@ -227,7 +227,7 @@
 
 *   [Haleydu/Cimoc](https://github.com/Haleydu/Cimoc) - 漫画阅读器
 
-*   [MewX/light-novel-library\_Wenku8\_Android](https://github.com/MewX/light-novel-library_Wenku8_Android) - \[CASUALLY MAINTAINED] 轻小说文库 (Wenku8.com) 安卓版第三方公益App，始于2014年的Material Design风格、无广告、不盈利、Google Play上安装包最小的轻小说阅读器(light novel reader)。目前除了网站的API以外，还添加了我自己架的Cloudflare Worker 中继节点用来突破网站API的限制 wenku8-relay.mewx.org.
+*   [MewX/light-novel-library\_Wenku8\_Android](https://github.com/MewX/light-novel-library_Wenku8_Android) - \[CASUALLY MAINTAINED] 轻小说文库 (Wenku8.com) 安卓版第三方公益App，始于2014年的初版Material Design风格、非盈利、Play Store上安装包最小的轻小说阅读器 (light novel reader)。目前网站的API由于被大量滥用，已更新成我自己架的 Cloudflare Worker API 中继节点，不然的话网站关闭API就全军覆没了。
 
 ## Lua
 
