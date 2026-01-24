@@ -2,12 +2,12 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
 *   [Dart](#dart)
 *   [miscellaneous](#miscellaneous)
 *   [Vue](#vue)
 *   [HTML](#html)
 *   [C](#c)
-*   [JavaScript](#javascript)
 *   [Shell](#shell)
 *   [TypeScript](#typescript)
 *   [Rust](#rust)
@@ -22,6 +22,20 @@
 *   [Handlebars](#handlebars)
 *   [Bikeshed](#bikeshed)
 *   [Vim Script](#vim-script)
+
+## JavaScript
+
+*   [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
+
+*   [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV) - 一分钟搭建影视站，支持Vercel/Docker等部署方式
+
+*   [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
+
+*   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+
+*   [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
+
+*   [journey-ad/Moe-Counter](https://github.com/journey-ad/Moe-Counter) - Moe counter badge with multiple themes! - 多种风格可选的萌萌计数器
 
 ## Dart
 
@@ -92,18 +106,6 @@
 *   [libfuse/sshfs](https://github.com/libfuse/sshfs) - A network filesystem client to connect to SSH servers
 
 *   [CTCaer/hekate](https://github.com/CTCaer/hekate) - hekate - A GUI based Nintendo Switch Bootloader
-
-## JavaScript
-
-*   [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV) - 一分钟搭建影视站，支持Vercel/Docker等部署方式
-
-*   [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
-
-*   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-
-*   [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
-
-*   [journey-ad/Moe-Counter](https://github.com/journey-ad/Moe-Counter) - Moe counter badge with multiple themes! - 多种风格可选的萌萌计数器
 
 ## Shell
 
@@ -208,8 +210,6 @@
 *   [SakuraLLM/SakuraLLM](https://github.com/SakuraLLM/SakuraLLM) - 适配轻小说/Galgame的日中翻译大模型
 
 *   [misaka10843/copymanga-downloader](https://github.com/misaka10843/copymanga-downloader) - 使用python+copymanga API来下载copymanga(拷贝漫画)中的漫画(无速率限制)，支持批量+选话下载和获取您收藏的漫画并下载及半自动获取订阅下载！(全平台支持(pypi)) Nas版本请查看copymanga-nasdownloader
-
-*   [Stunkymonkey/nautilus-open-any-terminal](https://github.com/Stunkymonkey/nautilus-open-any-terminal) -
 
 ## Go
 
