@@ -16,10 +16,11 @@
 *   [Go](#go)
 *   [Java](#java)
 *   [Lua](#lua)
-*   [C++](#c-1)
+*   [C#](#c-1)
 *   [Svelte](#svelte)
 *   [Kotlin](#kotlin)
 *   [Handlebars](#handlebars)
+*   [C++](#c-2)
 *   [Bikeshed](#bikeshed)
 *   [Vim Script](#vim-script)
 
@@ -237,11 +238,9 @@
 
 *   [josean-dev/dev-environment-files](https://github.com/josean-dev/dev-environment-files) -
 
-## C++
+## C\#
 
 *   [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
-
-*   [ripose-jp/Memento](https://github.com/ripose-jp/Memento) - An mpv-based video player for studying Japanese
 
 ## Svelte
 
@@ -254,6 +253,10 @@
 ## Handlebars
 
 *   [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
+
+## C++
+
+*   [ripose-jp/Memento](https://github.com/ripose-jp/Memento) - An mpv-based video player for studying Japanese
 
 ## Bikeshed
 
