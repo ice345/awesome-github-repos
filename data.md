@@ -26,7 +26,7 @@
 
 ## Rust
 
-*   [instructkr/claw-code](https://github.com/instructkr/claw-code) - The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after publication. Better Harness Tools, not merely storing the archive of leaked Claude Code but make real things done. Now rewriting in Rust using oh-my-codex.
+*   [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex.
 
 *   [tramhao/termusic](https://github.com/tramhao/termusic) - Music Player TUI written in Rust
 
