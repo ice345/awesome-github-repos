@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
 *   [CMake](#cmake)
 *   [Rust](#rust)
 *   [JavaScript](#javascript)
@@ -9,7 +10,6 @@
 *   [Dart](#dart)
 *   [Vue](#vue)
 *   [HTML](#html)
-*   [miscellaneous](#miscellaneous)
 *   [C](#c)
 *   [Shell](#shell)
 *   [TypeScript](#typescript)
@@ -24,6 +24,22 @@
 *   [C++](#c-2)
 *   [Bikeshed](#bikeshed)
 *   [Vim Script](#vim-script)
+
+## miscellaneous
+
+*   [Linuxoid-cn/Mi8E-Unlocker](https://github.com/Linuxoid-cn/Mi8E-Unlocker) - ​本项目是专为搭载骁龙 8 至尊版（Snapdragon 8 Elite）平台的小米设备打造的 Windows 一键 BL 解锁辅助工具。通过 8e-unlock.bat 脚本，实现 HyperOS 系统下的自动化解锁流程。
+
+*   [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
+
+*   [leiurayer/downkyi](https://github.com/leiurayer/downkyi) - 哔哩下载姬downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
+
+*   [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) -
+
+*   [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
+
+*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
+
+*   [hongchacha/cartoon](https://github.com/hongchacha/cartoon) - 全是漫画，免费漫画app
 
 ## CMake
 
@@ -134,22 +150,6 @@
 *   [phil-opp/blog\_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 
 *   [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
-
-## miscellaneous
-
-*   [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
-
-*   [leiurayer/downkyi](https://github.com/leiurayer/downkyi) - 哔哩下载姬downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
-
-*   [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) -
-
-*   [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
-
-*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
-
-*   [hongchacha/cartoon](https://github.com/hongchacha/cartoon) - 全是漫画，免费漫画app
-
-*   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 
 ## C
 
