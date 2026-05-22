@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [Lua](#lua)
 *   [miscellaneous](#miscellaneous)
 *   [CMake](#cmake)
 *   [Rust](#rust)
@@ -16,7 +17,6 @@
 *   [Makefile](#makefile)
 *   [Python](#python)
 *   [Go](#go)
-*   [Lua](#lua)
 *   [C#](#c-1)
 *   [Svelte](#svelte)
 *   [Kotlin](#kotlin)
@@ -24,6 +24,16 @@
 *   [C++](#c-2)
 *   [Bikeshed](#bikeshed)
 *   [Vim Script](#vim-script)
+
+## Lua
+
+*   [ice345/markdown-table-wrap.nvim](https://github.com/ice345/markdown-table-wrap.nvim) - Optimized the `render-markdown` plugin to address line-breaking issues within table cells.
+
+*   [mikesmithgh/kitty-scrollback.nvim](https://github.com/mikesmithgh/kitty-scrollback.nvim) - 😽 Open your Kitty scrollback buffer with Neovim. Ameowzing!
+
+*   [nshen/learn-neovim-lua](https://github.com/nshen/learn-neovim-lua) - Neovim 配置实战：从 0 到 1 打造自己的 IDE
+
+*   [josean-dev/dev-environment-files](https://github.com/josean-dev/dev-environment-files) -
 
 ## miscellaneous
 
@@ -221,8 +231,6 @@
 
 *   [SakuraLLM/SakuraLLM](https://github.com/SakuraLLM/SakuraLLM) - 适配轻小说/Galgame的日中翻译大模型
 
-*   [misaka10843/copymanga-downloader](https://github.com/misaka10843/copymanga-downloader) - 使用python+copymanga API来下载copymanga(拷贝漫画)中的漫画(无速率限制)，支持批量+选话下载和获取您收藏的漫画并下载及半自动获取订阅下载！(全平台支持(pypi)) Nas版本请查看copymanga-nasdownloader
-
 ## Go
 
 *   [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
@@ -232,14 +240,6 @@
 *   [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry\_blossom: A command-line fuzzy finder
 
 *   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
-
-## Lua
-
-*   [mikesmithgh/kitty-scrollback.nvim](https://github.com/mikesmithgh/kitty-scrollback.nvim) - 😽 Open your Kitty scrollback buffer with Neovim. Ameowzing!
-
-*   [nshen/learn-neovim-lua](https://github.com/nshen/learn-neovim-lua) - Neovim 配置实战：从 0 到 1 打造自己的 IDE
-
-*   [josean-dev/dev-environment-files](https://github.com/josean-dev/dev-environment-files) -
 
 ## C\#
 
